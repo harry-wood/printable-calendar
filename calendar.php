@@ -23,6 +23,7 @@ Height for weekend  <input name="weheight" type="text" size="5" value="4.5"><br>
 <br>
 <input type="submit">
 </form>
+<a href="https://github.com/harry-wood/printable-calendar" style="font-weight:normal; font-size:0.9em;">code on github</a>
 <?php
 include("./include/footer.php");
 
